@@ -1,0 +1,417 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Travel GUide\n"
+"POT-Creation-Date: 2014-02-27 22:49+0530\n"
+"PO-Revision-Date: 2014-02-27 22:50+0530\n"
+"Last-Translator: Rohit Tripathi <rohit@rohitink.com>\n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.2\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _e;__;esc_attr_e\n"
+"X-Poedit-SearchPath-0: /Users/mac/Documents/Developer/Theme-Development/wp-"
+"content/themes/travel-guide\n"
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/travel-guide/404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/travel-guide/404.php:19
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/travel-guide/404.php:27
+msgid "Most Used Categories"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/travel-guide/404.php:44
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/travel-guide/archive.php:31
+#, php-format
+msgid "Author: %s"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/travel-guide/archive.php:39
+#, php-format
+msgid "Day: %s"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/travel-guide/archive.php:42
+#, php-format
+msgid "Month: %s"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/travel-guide/archive.php:45
+#, php-format
+msgid "Year: %s"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/travel-guide/archive.php:48
+msgid "Asides"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/travel-guide/archive.php:51
+msgid "Images"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/travel-guide/archive.php:54
+msgid "Videos"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/travel-guide/archive.php:57
+msgid "Quotes"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/travel-guide/archive.php:60
+msgid "Links"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/travel-guide/archive.php:63
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/travel-guide/sidebar.php:17
+msgid "Archives"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/travel-guide/comments.php:36
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/travel-guide/comments.php:56
+msgid "Comment navigation"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/travel-guide/comments.php:37
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/travel-guide/comments.php:57
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/travel-guide/comments.php:38
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/travel-guide/comments.php:58
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/travel-guide/comments.php:68
+msgid "Comments are closed."
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/travel-guide/comments.php:89
+msgid "Name"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/travel-guide/comments.php:95
+msgid "Email"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/travel-guide/comments.php:102
+msgid "Website"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/travel-guide/content-page.php:18
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/travel-guide/content-single.php:31
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/travel-guide/image.php:58
+msgid "Pages:"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/travel-guide/content-page.php:23
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/travel-guide/content-single.php:71
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/travel-guide/image.php:32
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/travel-guide/image.php:64
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/travel-guide/inc/template-tags.php:71
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/travel-guide/inc/template-tags.php:89
+msgid "Edit"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/travel-guide/content-single.php:40
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/travel-guide/content-single.php:43
+msgid ", "
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/travel-guide/content-single.php:48
+#, php-format
+msgid ""
+"This entry was tagged %2$s. Bookmark the <a href=\"%3$s\" rel=\"bookmark"
+"\">permalink</a>."
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/travel-guide/content-single.php:50
+#, php-format
+msgid "Bookmark the <a href=\"%3$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/travel-guide/content-single.php:56
+#, php-format
+msgid ""
+"This entry was posted in %1$s and tagged %2$s. Bookmark the <a href=\"%3$s\" "
+"rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/travel-guide/content-single.php:58
+#, php-format
+msgid ""
+"This entry was posted in %1$s. Bookmark the <a href=\"%3$s\" rel=\"bookmark"
+"\">permalink</a>."
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/travel-guide/content.php:31
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/travel-guide/content.php:34
+msgid "Pages: "
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/travel-guide/footer.php:20
+#, php-format
+msgid "Powered By  %1$s"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/travel-guide/functions.php:20
+msgid "Primary Menu"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/travel-guide/functions.php:34
+msgid "Sidebar"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/travel-guide/image.php:22
+#, php-format
+msgid ""
+"Published <span class=\"entry-date\"><time class=\"entry-date\" datetime="
+"\"%1$s\">%2$s</time></span> at <a href=\"%3$s\">%4$s &times; %5$s</a> in <a "
+"href=\"%6$s\" rel=\"gallery\">%7$s</a>"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/travel-guide/image.php:37
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/travel-guide/image.php:38
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/travel-guide/no-results.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/travel-guide/no-results.php:19
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/travel-guide/no-results.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/travel-guide/no-results.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/travel-guide/options.php:28
+msgid "Basic Options"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/travel-guide/options.php:32
+msgid "Site Logo"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/travel-guide/options.php:33
+msgid "Leave Blank to use text."
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/travel-guide/options.php:39
+msgid "Enable Excerpts on Homepage"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/travel-guide/options.php:40
+msgid "This will show only a portion of your entire post on the homepage."
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/travel-guide/options.php:46
+msgid "Copyright Text"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/travel-guide/options.php:47
+msgid "It will be displayed in Footer Left."
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/travel-guide/search.php:16
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/travel-guide/sidebar.php:24
+msgid "Meta"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/travel-guide/inc/options-framework.php:147
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/travel-guide/inc/options-framework.php:148
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/travel-guide/inc/options-framework.php:377
+msgid "Theme Options"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/travel-guide/inc/options-framework.php:193
+msgid "Clear"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/travel-guide/inc/options-framework.php:194
+msgid "Default"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/travel-guide/inc/options-framework.php:195
+msgid "Select Color"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/travel-guide/inc/options-framework.php:240
+msgid "Save Options"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/travel-guide/inc/options-framework.php:241
+msgid "Restore Defaults"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/travel-guide/inc/options-framework.php:241
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/travel-guide/inc/options-framework.php:273
+msgid "Default options restored."
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/travel-guide/inc/options-framework.php:327
+msgid "Options saved."
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/travel-guide/inc/options-media-uploader.php:51
+msgid "No file chosen"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/travel-guide/inc/options-media-uploader.php:54
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/travel-guide/inc/options-media-uploader.php:113
+msgid "Upload"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/travel-guide/inc/options-media-uploader.php:56
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/travel-guide/inc/options-media-uploader.php:114
+msgid "Remove"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/travel-guide/inc/options-media-uploader.php:59
+msgid "Upgrade your version of WordPress for full media support."
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/travel-guide/inc/options-media-uploader.php:83
+msgid "View File"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/travel-guide/inc/options-sanitize.php:237
+msgid "No Repeat"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/travel-guide/inc/options-sanitize.php:238
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/travel-guide/inc/options-sanitize.php:239
+msgid "Repeat Vertically"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/travel-guide/inc/options-sanitize.php:240
+msgid "Repeat All"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/travel-guide/inc/options-sanitize.php:253
+msgid "Top Left"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/travel-guide/inc/options-sanitize.php:254
+msgid "Top Center"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/travel-guide/inc/options-sanitize.php:255
+msgid "Top Right"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/travel-guide/inc/options-sanitize.php:256
+msgid "Middle Left"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/travel-guide/inc/options-sanitize.php:257
+msgid "Middle Center"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/travel-guide/inc/options-sanitize.php:258
+msgid "Middle Right"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/travel-guide/inc/options-sanitize.php:259
+msgid "Bottom Left"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/travel-guide/inc/options-sanitize.php:260
+msgid "Bottom Center"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/travel-guide/inc/options-sanitize.php:261
+msgid "Bottom Right"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/travel-guide/inc/options-sanitize.php:274
+msgid "Scroll Normally"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/travel-guide/inc/options-sanitize.php:275
+msgid "Fixed in Place"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/travel-guide/inc/options-sanitize.php:349
+msgid "Normal"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/travel-guide/inc/options-sanitize.php:350
+msgid "Italic"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/travel-guide/inc/options-sanitize.php:351
+msgid "Bold"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/travel-guide/inc/options-sanitize.php:352
+msgid "Bold Italic"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/travel-guide/inc/template-tags.php:34
+msgid "Post navigation"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/travel-guide/inc/template-tags.php:44
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/travel-guide/inc/template-tags.php:48
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/travel-guide/inc/template-tags.php:71
+msgid "Pingback:"
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/travel-guide/inc/template-tags.php:93
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: /Users/mac/Documents/Developer/Theme-Development/wp-content/themes/travel-guide/inc/template-tags.php:183
+#, php-format
+msgid ""
+"<span class=\"posted-on\">Posted On %1$s</span> <span class=\"byline\"> by "
+"%2$s</span>"
+msgstr ""
